@@ -23,6 +23,8 @@ Flatiron School final project - a Rails app that displays highly-rated trailers 
 
 - [Working with APIs Tutorial](https://github.com/learn-co-curriculum/web-auth-readme)
 - [Working with APIs Lab](https://github.com/learn-co-curriculum/rails-github-api)
+- [Refactoring APIs Tutorial](https://github.com/learn-co-curriculum/web-service-objects-readme)
+- [Refactoring APIs Lab](https://github.com/learn-co-curriculum/rails-refactoring-apis)
 - [Designing APIs Lab](https://github.com/learn-co-curriculum/rails-students-api)
 
 ##### Flatiron Scheduler Gem
